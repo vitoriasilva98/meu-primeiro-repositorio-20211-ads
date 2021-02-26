@@ -5,3 +5,15 @@ git status -
 git clone - Clonar repositório 
 git add . - para enviar tudo 
 git add nome-do-documento.extensão - para enviar só uma arquivo
+
+git pull - comando para trazer as alterações do repositório online (remote)
+
+-------------------------------------------------
+COMANDOS LISTADOS EM ORDEM DE EXECUÇÃO
+-------------------------------------------------
+git clone - clonar pasta remota
+
+git init - utilizar pasta
+git add/ git add . - adicionar arquivo ou repositório/ adicionar tudo na pasta
+git commit -m "mensagem..." - comando para descrever alterações.
+git push - comando para enviar informações para repositório remoto. 
