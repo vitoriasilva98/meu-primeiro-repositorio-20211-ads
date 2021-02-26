@@ -1,0 +1,7 @@
+Esse é um novo arquivo no repositório, mas na versão remota, testando upagem para o repositório remoto.
+
+Comandos aprendidos até agora: git pull - atualiza o repositório local
+git status - 
+git clone - Clonar repositório 
+git add . - para enviar tudo 
+git add nome-do-documento.extensão - para enviar só uma arquivo
